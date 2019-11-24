@@ -996,5 +996,23 @@ var data = [{
     shape: "unknown",
     durationMinutes: "4 minutes",
     comments: "Bright orange object&#44 rapid speed and direction changes .."
+  },
+  {
+    datetime: "11/22/1996",
+    city: "atlanta",
+    state: "ga",
+    country: "us",
+    shape: "human",
+    durationMinutes: "23 years",
+    comments: "favorite child, almost died completing this assignment, ashamed at how long it took to figure out."
+  }, 
+  {
+    datetime: "12/18/1988",
+    city: "scottsdale",
+    state: "az",
+    country: "us",
+    shape: "human",
+    durationMinutes: "30 years",
+    comments: "first child, didn't die completing this assignment cuz hes smarter, figured it out in a night rather than stress about it for a week and then cry about it instead. go you"
   }
 ];
